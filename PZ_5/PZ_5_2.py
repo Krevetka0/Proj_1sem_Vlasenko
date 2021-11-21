@@ -12,3 +12,5 @@ def rectps(x1, y1, x2, y2):
 
 
 print(rectps(float(input('x1= ')), float(input('y1= ')), float(input('x2= ')), float(input('y2= '))))
+print(rectps(float(input('x1= ')), float(input('y1= ')), float(input('x2= ')), float(input('y2= '))))
+print(rectps(float(input('x1= ')), float(input('y1= ')), float(input('x2= ')), float(input('y2= '))))
