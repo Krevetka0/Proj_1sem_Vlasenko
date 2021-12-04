@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="Копия игры Арканоид" />
+    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="Копия игры Арканоид2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638606677246</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Копия игры Арканоид2">
+      <created>1638607308935</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638607308935</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +284,7 @@
     <MESSAGE value="ПЗ№7" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Копия игры Арканоид" />
-    <option name="LAST_COMMIT_MESSAGE" value="Копия игры Арканоид" />
+    <MESSAGE value="Копия игры Арканоид2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Копия игры Арканоид2" />
   </component>
 </project>
