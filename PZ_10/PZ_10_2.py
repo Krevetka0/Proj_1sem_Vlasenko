@@ -7,7 +7,7 @@ a = f1.read()
 print(a)
 f1.close()
 
-f1 = open('text18-4.txt', 'a', encoding='UTF-8')
+f1 = open('text18-4.txt', 'r', encoding='UTF-8')
 c = len([i for i in a if i.isalpha()])
 print('Количество букв:', c)
 f1.close()
