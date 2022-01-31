@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter.font import BOLD
+from tkinter.ttk import Combobox
 root = Tk()
 var = IntVar()
 var1 = IntVar()
@@ -22,8 +23,7 @@ Checkbutton(text="Музыка", variable=var1).place(x=245, y=260)
 Checkbutton(text="Видео", variable=var2).place(x=350, y=260)
 Checkbutton(text="Рисование", variable=var3).place(x=450, y=260)
 Label(text="Ваша страна:", width=25, fg='black', font='arial 11').place(x=30, y=300)
-
-
-
-
+Combobox(root, values=(['Россия', 'Украина', 'Беларусь', 'Казахстан'])).place(x=250, y=300)
+Label(text='Ваш город:', width=25, fg='black', font='arial 11').place(x=20, y=340)
+Combobox(root, values=(['Москва', 'Киев', 'Минск', 'Нур-Султан'])).place(x=250, y=340)
 root.mainloop()
