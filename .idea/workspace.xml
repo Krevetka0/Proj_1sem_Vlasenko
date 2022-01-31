@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№11">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -364,7 +362,28 @@
       <option name="project" value="LOCAL" />
       <updated>1642430549489</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ПЗ№12">
+      <created>1643468908328</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1643468908328</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ПЗ№12">
+      <created>1643468987860</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1643468987860</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ПЗ№12">
+      <created>1643469046325</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1643469046325</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,6 +409,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="ПЗ№9" />
     <MESSAGE value="ПЗ№11" />
-    <option name="LAST_COMMIT_MESSAGE" value="ПЗ№11" />
+    <MESSAGE value="ПЗ№12" />
+    <option name="LAST_COMMIT_MESSAGE" value="ПЗ№12" />
   </component>
 </project>
