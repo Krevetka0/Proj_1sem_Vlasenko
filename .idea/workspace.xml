@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№12">
+      <change beforePath="$PROJECT_DIR$/.idea/Proj_1sem_Vlasenko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Proj_1sem_Vlasenko.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_12/PZ_12_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_12/PZ_12_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,13 @@
     </file-type-list>
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="c27503bc-7123-4318-9d5c-05dfc8b7ea28" />
+    <option name="defaultAccountId" value="67400819-9809-482b-a7ea-db751385d79f" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="1z5ACo5j0RgmdUuBmmGRu3XgzFH" />
   <component name="ProjectLevelVcsManager">
@@ -419,7 +428,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ПЗ№5" />
