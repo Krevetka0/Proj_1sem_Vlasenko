@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№13">
-      <change beforePath="$PROJECT_DIR$/.idea/Proj_1sem_Vlasenko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Proj_1sem_Vlasenko.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№14">
+      <change beforePath="$PROJECT_DIR$/PZ_14/PZ_14_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_14/PZ_14_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -418,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645886652687</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="ПЗ№14">
+      <created>1647268318908</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1647268318908</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,6 +451,7 @@
     <MESSAGE value="ПЗ№11" />
     <MESSAGE value="ПЗ№12" />
     <MESSAGE value="ПЗ№13" />
-    <option name="LAST_COMMIT_MESSAGE" value="ПЗ№13" />
+    <MESSAGE value="ПЗ№14" />
+    <option name="LAST_COMMIT_MESSAGE" value="ПЗ№14" />
   </component>
 </project>
