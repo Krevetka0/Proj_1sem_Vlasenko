@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№12">
+    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№13">
       <change beforePath="$PROJECT_DIR$/.idea/Proj_1sem_Vlasenko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Proj_1sem_Vlasenko.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_12/PZ_12_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_12/PZ_12_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +35,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="67400819-9809-482b-a7ea-db751385d79f" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -66,28 +62,7 @@
       <recent name="C:\Users\Student\PycharmProjects\POKS-21\Proj_1sem_Vlasenko\Arcanoid" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PZ_13_2">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Proj_1sem_Vlasenko" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_12/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PZ_15_1">
     <configuration name="PZ_12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Proj_1sem_Vlasenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,6 +147,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PZ_15_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Proj_1sem_Vlasenko" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_15/PZ_15_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Proj_1sem_Vlasenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PZ_15_1" />
         <item itemvalue="Python.PZ_13_2" />
         <item itemvalue="Python.PZ_13_1" />
         <item itemvalue="Python.PZ_12_2" />
         <item itemvalue="Python.PZ_12_1" />
-        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643641476068</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="ПЗ№13">
+      <created>1645886652687</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1645886652687</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,6 +431,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ПЗ№5" />
@@ -441,6 +445,7 @@
     <MESSAGE value="ПЗ№9" />
     <MESSAGE value="ПЗ№11" />
     <MESSAGE value="ПЗ№12" />
-    <option name="LAST_COMMIT_MESSAGE" value="ПЗ№12" />
+    <MESSAGE value="ПЗ№13" />
+    <option name="LAST_COMMIT_MESSAGE" value="ПЗ№13" />
   </component>
 </project>
