@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№14">
-      <change beforePath="$PROJECT_DIR$/.idea/Proj_1sem_Vlasenko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Proj_1sem_Vlasenko.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9b7af5c2-de4c-4d6b-87bc-8747a185a4e5" name="Default Changelist" comment="ПЗ№15">
+      <change beforePath="$PROJECT_DIR$/PZ_15/PZ_15_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_15/PZ_15_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -442,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647270634866</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="ПЗ№15">
+      <created>1648305327148</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1648305327148</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -470,6 +475,7 @@
     <MESSAGE value="ПЗ№12" />
     <MESSAGE value="ПЗ№13" />
     <MESSAGE value="ПЗ№14" />
-    <option name="LAST_COMMIT_MESSAGE" value="ПЗ№14" />
+    <MESSAGE value="ПЗ№15" />
+    <option name="LAST_COMMIT_MESSAGE" value="ПЗ№15" />
   </component>
 </project>
