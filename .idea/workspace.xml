@@ -8,6 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2022_16_32_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_04_2022_16_32__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BD/Child.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BD/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BD/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BD/saper.db" beforeDir="false" afterPath="$PROJECT_DIR$/BD/saper.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +69,8 @@
       <recent name="C:\Users\Student\PycharmProjects\POKS-21\Proj_1sem_Vlasenko\Arcanoid" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1 (1)">
-    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="PZ_12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Proj_1sem_Vlasenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_12/PZ_12_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PZ_12_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Proj_1sem_Vlasenko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PZ_12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dop/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_12/PZ_12_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,9 +198,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1 (1)" />
-        <item itemvalue="Python.1" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.PZ_12_2" />
+        <item itemvalue="Python.PZ_12_1" />
         <item itemvalue="Python.PZ_15_2" />
         <item itemvalue="Python.PZ_15_1" />
       </list>
@@ -451,20 +454,13 @@
       <updated>1648305327148</updated>
     </task>
     <task id="LOCAL-00035" summary="commit">
-      <created>1650721262015</created>
+      <created>1651931704635</created>
       <option name="number" value="00035" />
       <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1650721262015</updated>
+      <updated>1651931704635</updated>
     </task>
-    <task id="LOCAL-00036" summary="commit">
-      <created>1650721277126</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1650721277126</updated>
-    </task>
-    <option name="localTasksCounter" value="37" />
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
