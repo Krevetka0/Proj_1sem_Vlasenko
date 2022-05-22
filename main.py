@@ -123,8 +123,10 @@ class Child(tk.Toplevel):
 
         label_genre = tk.Label(self, text='Жанр')
         label_genre.place(x=50, y=50)
-        self.entry_genre = ttk.Entry(self)
-        self.entry_genre.place(x=150, y=50)
+        self.combobox = ttk.Combobox(self, values=[u'Детектив', u'Приключения', u'Фантастика', u'Роман', u'Комедия',
+                                                   u'Драма', u'Фольклор'])
+        self.combobox.current(0)
+        self.combobox.place(x=150, y=50)
 
         label_country = tk.Label(self, text='Страна')
         label_country.place(x=50, y=75)
@@ -162,7 +164,7 @@ class Child(tk.Toplevel):
         self.btn_ok = ttk.Button(self, text='Добавить')
         self.btn_ok.place(x=210, y=250)
         self.btn_ok.bind('<Button-1>', lambda event: self.view.records(self.entry_number.get(),
-                                                                       self.entry_genre.get(),
+                                                                       self.combobox.get(),
                                                                        self.entry_country.get(),
                                                                        self.entry_series.get(),
                                                                        self.entry_author.get(),
@@ -185,7 +187,7 @@ class Update(Child):
         btn_edit = ttk.Button(self, text="Редактировать")
         btn_edit.place(x=205, y=250)
         btn_edit.bind('<Button-1>', lambda event: self.view.update_record(self.entry_number.get(),
-                                                                          self.entry_genre.get(),
+                                                                          self.combobox.get(),
                                                                           self.entry_country.get(),
                                                                           self.entry_series.get(),
                                                                           self.entry_author.get(),
